@@ -52,10 +52,10 @@ const Navbar = () => {
          <li 
          key={id} 
          className=' px-4 py-6 cursor-pointer capitalize text-4xl'>
-            <Link onClick={()=>setNav(!nav)} to={link} smooth duration={500} offset={-65}>{link}</Link>
+            <Link onClick={()=>setNav(!nav)} to={link} smooth duration={500} offset={-60}>{link}</Link>
          </li>
          ))}
-         <li className='text-3xl pt-5 '><a href='/logo192.png'  className=' flex gap-2' download={true} >Resume<AiOutlineDownload size={35}/></a></li>
+         <li className='text-3xl pt-5 '><a href='/WarisIbrahim.pdf'  className=' flex gap-2' download={true} >Resume<AiOutlineDownload size={35}/></a></li>
          <li className='mt-20 flex gap-6 '><a href='https://www.linkedin.com/in/waris-ibrahim-58a914256' target="_blank" rel="noreferrer"><FaLinkedin size={30}/></a>
          <a href='http://github.com/sikeuno' target="_blank" rel="noreferrer"><FaGithub size={30}/></a>
          <a href='https://instagram.com/var_i.sh?igshid=YmMyMTA2M2Y=' target="_blank" rel="noreferrer"><FaInstagram size={30}/></a>
