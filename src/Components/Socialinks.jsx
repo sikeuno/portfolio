@@ -39,7 +39,7 @@ const Socialinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                </>
         ),
-        href: "/logo192.png",
+        href: "/WarisIbrahim.pdf",
         style: " rounded-br-md",
         download: true,
     }, 
