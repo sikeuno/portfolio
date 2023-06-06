@@ -10,8 +10,7 @@ const Home = () => {
         <div className="flex flex-col justify-center md:w-1/2">
           <h2 className="text-4xl font-bold sm:text-7xl text-white">I'm a Full Stack Developer</h2>
           <p className="text-gray-400 py-4 max-w-md">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias, ad rerum cum vel, quam sed iste eum
-            accusamus omnis, harum atque dolor. Sed natus dolore facere rerum repudiandae animi illo?
+           I'm Waris Ibrahim, a dedicated Full Stack Developer with a passion for ML (Machine Learning), Data Science, and Blockchain & Crypto. I firmly believe in the power of time and work with unwavering enthusiasm towards my goals. Let's start scrolling to learn more about me!
           </p>
           <div>
             <Link
