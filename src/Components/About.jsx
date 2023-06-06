@@ -9,10 +9,8 @@ const About = () => {
         </div>
         <div className="text-xl mt-10">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis qui, alias quidem reiciendis libero iusto
-            laudantium, vitae, unde quisquam sapiente fuga minima adipisci animi explicabo laboriosam autem quam? Provident
-            assumenda totam dolor in mollitia natus magni odit! Voluptatum eum nam eveniet porro ea odit, enim odio iste
-            nisi, incidunt labore.
+           Hello, I'm Waris Ibrahim, a passionate developer with expertise in React.js and Python. I'm dedicated to crafting exceptional digital experiences and leveraging technology to solve real-world problems.<br/>
+    With a solid foundation in React.js and Python, I have the skills and knowledge to create dynamic and interactive web applications. I strive for excellence in every aspect of my work, whether it's building intuitive user interfaces or developing robust backend systems. Staying up-to-date with the latest trends in the industry allows me to deliver modern and efficient solutions.<br/>
           </p>
           <br />
           <p>
