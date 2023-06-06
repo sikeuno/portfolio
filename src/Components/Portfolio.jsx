@@ -23,7 +23,7 @@ const Portfolio = () => {
       id: 3,
       src: proj3,
       code:"",
-      demo:"
+      demo:""
     },
     {
       id: 4,
