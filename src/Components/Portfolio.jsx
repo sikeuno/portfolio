@@ -11,13 +11,13 @@ const Portfolio = () => {
       id: 1,
       src: proj1,
       code:"",
-      demo:"
+      demo:""
     },
     {
       id: 2,
       src: proj2,
       code:"",
-      demo:"
+      demo:""
     },
     {
       id: 3,
