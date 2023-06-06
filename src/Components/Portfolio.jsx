@@ -10,22 +10,30 @@ const Portfolio = () => {
     {
       id: 1,
       src: proj1,
+      code:"",
+      demo:"
     },
     {
       id: 2,
       src: proj2,
+      code:"",
+      demo:"
     },
     {
       id: 3,
       src: proj3,
+      code:"",
+      demo:"
     },
     {
       id: 4,
       src: proj4,
+      code:""
     },
     {
       id: 5,
       src: proj5,
+      code:""
     },
   ];
 
@@ -37,7 +45,7 @@ const Portfolio = () => {
           <p className="py-6">Check out some of my work right here</p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-4 sm:px-0">
-          {images.map(({ id, src }) => (
+          {images.map(({ id, src,code,demo }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -47,10 +55,10 @@ const Portfolio = () => {
 
               <div className="flex justify-center">
                 <button className="w-full px-4 py-2 m-2 duration-200 hover:scale-105">
-                  Demo
+                  {demo}
                 </button>
                 <button className="w-full px-4 py-2 m-2 duration-200 hover:scale-105">
-                  Code
+                  {code}
                 </button>
               </div>
             </div>
