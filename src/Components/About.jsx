@@ -17,7 +17,7 @@ const About = () => {
           <p>
           In addition to my technical skills, I am passionate about creating engaging and intuitive user experiences. I understand the importance of crafting interfaces that are not only visually appealing but also highly functional and user-friendly.
 
-When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and staying active in the developer community. This allows me to stay inspired and connected with the latest industry trends and innovations.
+When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and staying active in the developer community. This allows me to stay inspired and connected with the latest industry trends and innovations.<br/>
 
 I invite you to explore my portfolio, where you can find examples of my projects that highlight my proficiency in React.js and Python. If you have a project or an opportunity where my skills can make a difference, I would love to hear from you.
           </p>
