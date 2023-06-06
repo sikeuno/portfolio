@@ -54,12 +54,12 @@ const Portfolio = () => {
               />
 
               <div className="flex justify-center">
-                <button className="w-full px-4 py-2 m-2 duration-200 hover:scale-105">
-                  {demo}
-                </button>
-                <button className="w-full px-4 py-2 m-2 duration-200 hover:scale-105">
-                  {code}
-                </button>
+                <a href={demo}className="w-full px-4 py-2 m-2 duration-200 hover:scale-105">
+                  demo
+                </a>
+                <a href={code} className="w-full px-4 py-2 m-2 duration-200 hover:scale-105">
+                  code
+                </a>
               </div>
             </div>
           ))}
