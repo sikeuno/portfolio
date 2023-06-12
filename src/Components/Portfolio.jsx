@@ -9,30 +9,30 @@ const Portfolio = () => {
     {
       id: 1,
       src: proj1,
-      code:"",
+      code:"https://github.com/sikeuno/sanjai",
       demo:""
     },
     {
       id: 2,
       src: proj2,
-      code:"",
+      code:"https://github.com/sikeuno/Bankist",
       demo:""
     },
     {
       id: 3,
       src: proj3,
-      code:"",
+      code:"https://github.com/sikeuno/clgproject",
       demo:""
     },
     {
       id: 4,
       src: proj4,
-      code:""
+      code:"https://github.com/sikeuno/guess_the_game"
     },
     {
       id: 5,
       src: proj5,
-      code:""
+      code:"https://github.com/sikeuno/piggame"
     },
   ];
 
