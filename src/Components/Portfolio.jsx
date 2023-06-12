@@ -8,7 +8,7 @@ const Portfolio = () => {
   const images = [
     {
       id: 1,
-      src: "https://ibb.co/Ctty1tM",
+      src: "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en",
       code:"",
       demo:""
     },
