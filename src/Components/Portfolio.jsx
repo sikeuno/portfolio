@@ -1,10 +1,9 @@
 import React from 'react';
 import proj1 from "../assets/a.png"
-import proj2 from '../assets/2.jpg';
-import proj3 from '../assets/3.jpeg';
-import proj4 from '../assets/4.jpeg';
-import proj5 from '../assets/6.jpeg';
-
+import proj2 from "../assets/b.png"
+import proj3 from "../assets/c.png"
+import proj4 from "../assets/d.png"
+import proj5 from "../assets/e.png"
 const Portfolio = () => {
   const images = [
     {
