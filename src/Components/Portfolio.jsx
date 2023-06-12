@@ -9,7 +9,7 @@ const Portfolio = () => {
   const images = [
     {
       id: 1,
-      src: proj1,
+      src: "https://ibb.co/Ctty1tM",
       code:"",
       demo:""
     },
