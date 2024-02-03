@@ -8,7 +8,7 @@ const Navbar = () => {
     const links=[
         {
             id:1,
-            link:'home'
+            link:'Hemnath'
         },
         {
             id:2,
